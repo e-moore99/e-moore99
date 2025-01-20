@@ -1,16 +1,20 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**e-moore99/e-moore99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I am new to the world of software development, currently completing a Diploma of Digital Technology Development and Design with Mission Ready. I come from a background in chemistry and am enjoying learning all about Responsive Web Development, Cloud Computing, and AI. I am looking forward to learning even more and diving deeper into this field.
 
-Here are some ideas to get you started:
+### Technical Skills 
+- **Frontend Development:** Use of React, CSS, and RWD to create visually appealing interfaces and create a good user experience.
+- **AI Services:** Skilled at integration of Azure vision services and Google Gemini API into applications, including AI prompt development.
+- **Backend Development:** Use of NodeJS and Express for seamless API integration using both MySQL and MongoDB databases.
+- **Cloud Services:** Practical use of Azure Services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills
+- **Teamwork:** I work best in a team environment, where we are all able to share ideas and communicate clearly and effectively.
+- **Problem Solving:** This was my favourite part of working in sciences, and is something that is equally as relevant in this field. I enjoy the challenge presented by writing code.
+- **Detail Oriented:** This is a skill I honed in sciences and helps minimise time spent trying to find the small errors.
+
+### Current Project
+I am currently working on learning TypeScript and integrating it into a couple of small projects, to expand my skills and create more efficient code.
+
+### Let's Connect!
+Add me on [LinkedIn!](https://www.linkedin.com/in/evan-moore-0123671b3/) I'd love to get in touch.
