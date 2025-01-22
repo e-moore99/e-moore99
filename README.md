@@ -13,7 +13,7 @@ Hey! I am new to the world of software development, currently completing a Diplo
 - **Problem Solving:** This was my favourite part of working in sciences, and is something that is equally as relevant in this field. I enjoy the challenge presented by writing code.
 - **Detail Oriented:** This is a skill I honed in sciences and helps minimise time spent trying to find the small errors.
 
-### Current Project
+### What I'm currently learning
 I am currently working on learning TypeScript and integrating it into a couple of small projects, to expand my skills and create more efficient code.
 
 ### Let's Connect!
