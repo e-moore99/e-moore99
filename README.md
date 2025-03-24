@@ -9,7 +9,7 @@ Hey! I am new to the world of software development, currently completing a Diplo
 - **Cloud Services:** Practical use of Azure Services.
 
 ### What I'm currently learning
-I am currently working on learning Next.js and TypeScript and creating a couple of small projects, to expand my skills and create more efficient code.
+I am currently working with Next.js and TypeScript to create an Ecommerce PWA, expanding my skills and create more efficient code.
 
 ### Let's Connect!
 Add me on [LinkedIn!](https://www.linkedin.com/in/evan-moore-0123671b3/) I'd love to get in touch.
