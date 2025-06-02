@@ -1,6 +1,6 @@
 ## About me 👋
 
-Hey! I am new to the world of software development, currently completing a Diploma of Digital Technology Development and Design with Mission Ready. I come from a background in chemistry and am enjoying learning all about Responsive Web Development, Cloud Computing, and AI. I am looking forward to learning even more and diving deeper into this field.
+Hey! I am new to the world of software development, recently having completed a Diploma of Digital Technology Development and Design with Mission Ready. I come from a background in chemistry and am enjoying learning all about Responsive Web Development, Cloud Computing, and AI. I am looking forward to learning even more and diving deeper into this field.
 
 ### Skills 
 - **Frontend Development:** Use of React, CSS, and RWD to create visually appealing interfaces and create a good user experience.
